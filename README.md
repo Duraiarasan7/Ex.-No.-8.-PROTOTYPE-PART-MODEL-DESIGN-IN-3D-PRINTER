@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+[WORKSHOP  empd.pdf](https://github.com/user-attachments/files/19996630/WORKSHOP.empd.pdf)
+
+
+### Name:Duraiarasan
+### Register Number:212224230071
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
